@@ -6,7 +6,7 @@ var website_name = "VIP FFX";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "https://t.me/+WbF0xCsHQ_ZhMmU9";
+var telegram_channel_link = "telegram channel link";
 
 // =======================================================
 // TELEGRAM GROUP LINK
